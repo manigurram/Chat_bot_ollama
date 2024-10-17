@@ -44,10 +44,7 @@ We use the Ollama application and the Llama 3.1 model. Ensure you have the Ollam
 1. Install Ollama application as per the [Ollama documentation](https://ollama.com/docs).
 2. Use the Llama 3.1 model for summarization tasks.
 
-# Ollama
-Get up and running with large language models.
-
-### Linux
+#### Linux
 ```bash
 sudo snap install curl
 sudo apt install curl
