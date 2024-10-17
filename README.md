@@ -1,4 +1,4 @@
-# Streamlit Chatbot with LLaMA Model
+# Chatbot with LLaMA Model
 This project demonstrates a simple chatbot interface built using Streamlit and a local instance of the LLaMA model. The chatbot allows users to ask questions and receive responses from the LLaMA model
 
 ## Prerequisites
