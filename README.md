@@ -69,13 +69,12 @@ ollama list
 
 ### Show model information
 ```bash
-pgrep ollama
-kill id_number
+ollama show llama3.1
 ```
 ### Stop the Ollama:
 ```bash
-
-ollama stop llama3.1
+pgrep ollama
+kill id_number
 ```
 ### Remove a model
 ```bash
