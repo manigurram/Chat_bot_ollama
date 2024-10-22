@@ -71,10 +71,7 @@ ollama list
 ```bash
 ollama show llama3.1
 ```
-### activate the ollama from terminal as below:
-```bash
-ollama run llama3.1
-```
+### Stop the Ollama:
 ```bash
 ollama stop llama3.1
 ```
